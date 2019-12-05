@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 
-	"github.com/infracloudio/ksearch/pkg/config"
-	"github.com/infracloudio/ksearch/pkg/printers"
-	"github.com/infracloudio/ksearch/pkg/util"
+	"github.com/ameydev/ksearch/pkg/config"
+	"github.com/ameydev/ksearch/pkg/printers"
+	"github.com/ameydev/ksearch/pkg/util"
 	"k8s.io/client-go/kubernetes"
 )
 
